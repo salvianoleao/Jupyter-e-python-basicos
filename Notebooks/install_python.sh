@@ -1,0 +1,3 @@
+#!/bin/sh
+sudo apt-get update
+sudo apt-get install -y python3 python3-doc python3-all python3-pip python3-bs4 python3-all-dev python3-examples ipython3 ipython3-notebook ipython3-qtconsole python3-markdown python3-matplotlib python3-numpy python3-pandas python3-opengl python3-mpmath python3-nltk python3-numexpr python3-pandas-lib python3-html2text python3-html5lib python3-img2pdf python3-magic python3-matplotlib-dbg python3-numpy-dbg python3-numexpr-dbg python3-numpydoc python3-pandocfilters python3-setuptools python3-pdfrw python3-pil python3-pil-dbg python3-pil.imagetk python3-pil.imagetk-dbg python3-pilkit python3-pip python3-pyfftw python3-pyfftw-dbg python3-scipy python3-sympy python3-skimage-lib python3-sklearn-lib python3-seaborn python3-sphinx
